@@ -1,0 +1,2 @@
+addScriptToQueue((()=>{"loading"===document.readyState?document.addEventListener("DOMContentLoaded",(function(){!0!==window.resourcesAndDOMReady&&(document.dispatchEvent(new Event("resourcesAndDOMReady")),window.resourcesAndDOMReady=!0)})):!0!==window.resourcesAndDOMReady&&(document.dispatchEvent(new Event("resourcesAndDOMReady")),window.resourcesAndDOMReady=!0)}),0);
+//# sourceMappingURL=scripts-loaded.5d153bb0b1f1a4710e51.js.map
